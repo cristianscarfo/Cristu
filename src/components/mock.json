@@ -1,0 +1,17 @@
+[
+    {
+      "brandId": 1,
+      "description": "Mercedes",
+      "active": true
+    },
+    {
+      "brandId": 2,
+      "description": "Audi",
+      "active": true
+    },
+    {
+      "brandId": 3,
+      "description": "Ds",
+      "active": true
+    }
+  ]
